@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello how are you today
 It looks like it may rain
+=======
+welcome and hello
+>>>>>>> short_title
